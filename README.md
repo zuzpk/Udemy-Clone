@@ -21,4 +21,4 @@ You can start editing the page by modifying `app/page.jsx`. The page auto-update
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Zuz.js Documentation](https://www.zuz.com.pk) - learn about zuz.js features and API.
+- [Zuz.js Documentation](https://www.zuz.com.pk) - learn about zuz.js features and API.# whatsapp-web
