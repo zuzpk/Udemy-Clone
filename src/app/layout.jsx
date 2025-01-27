@@ -9,7 +9,7 @@ const RootLayout = ({ children }) => {
     <html lang="en">
       <head>
         <link rel="preconnect" href="https://fonts.zuzcdn.net" />
-        <link rel="stylesheet" href="https://fonts.zuzcdn.net/public/wj0HGfqhv/style.css" />
+        <link rel="stylesheet" href="https://fonts.zuzcdn.net/public/qjLs8fXhj/style.css" />
       </head>
       <body>
         <Wrapper>{children}</Wrapper>        

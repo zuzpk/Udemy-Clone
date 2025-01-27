@@ -1,6 +1,6 @@
 {
-  "name": "frontend",
-  "version": "0.1.7",
+  "name": "udemy",
+  "version": "0.1.8",
   "private": true,
   "scripts": {
     "dev": "concurrently \"zuzjs\" \"node zuz.js mode=dev dir=.next.dev\" \"next dev -p 3000\"",
@@ -10,8 +10,8 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@zuzjs/store": "^0.1.4",
-    "@zuzjs/ui": "^0.6.3",
+    "@zuzjs/store": "workspace:*",
+    "@zuzjs/ui": "workspace:*",
     "next": "15.0.3",
     "react": "19.0.0-rc-02c0e824-20241028",
     "react-dom": "19.0.0-rc-02c0e824-20241028"

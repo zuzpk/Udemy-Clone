@@ -1,5 +1,5 @@
 import packageJson from "../package.json";
-export const APP_NAME = "Zuz";
+export const APP_NAME = "Udemy";
 export const APP_DESCRIPTION = "Nextjs Boilerplate";
 export const APP_URL = "http://cms.zuz.com.pk/"
 export const API_URL = "http://localhost:3001/@/"
